@@ -573,7 +573,8 @@ section.element-show {
   font-size: 10px;
   line-height: 120%;
   color: #C0C0C0; }
-
+.mobile-menu{
+  display:none;}
 @media screen and (max-width: 1400px) {
   .container {
     max-width: 1140px; }
